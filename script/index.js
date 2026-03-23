@@ -50,7 +50,7 @@ getElement("product-box").addEventListener("click", function (e) {
   }
 });
 
-//traverse technique
+//traverse techniques
 
 // const cartbtns = document.getElementsByClassName("cart-btn");
 // console.log(cartbtns);
