@@ -16,7 +16,7 @@
 
   - Manipulate content ( innerText, innerHTML , textContent )
   - Manipulate Attribute ( src , title & others )
-  - Manipulate Style
+  - Manipulate Styles
   - Manipulating Class
 
 - The Concept of Event Delegation
