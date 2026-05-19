@@ -6,7 +6,7 @@
 - DaisyUI in a nutshell : What , why , How
 - All About Document object Model
 - All About events ( click , mouse , key , form) scroll , clipboard , touch
-- Way of selecting Element
+- Way of selecting Elements
   - ID
   - Class
   - tagName
